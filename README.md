@@ -7,7 +7,7 @@ We aim to use it to develop a CLI for our Serverless Service Mesh implementation
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/smi-sdk-cr/fork>)
+1. Fork it (<https://github.com/chanwit/smi-sdk-cr/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -15,4 +15,4 @@ We aim to use it to develop a CLI for our Serverless Service Mesh implementation
 
 ## Contributors
 
-- [Chanwit Kaewkasi](https://github.com/your-github-user) - creator and maintainer
+- [Chanwit Kaewkasi](https://github.com/chanwit) - creator and maintainer
