@@ -1,0 +1,13 @@
+name: smi-sdk-cr
+version: 0.1.0
+
+authors:
+  - Chanwit Kaewkasi <chanwit@gmail.com>
+
+targets:
+  smi-sdk-cr:
+    main: src/smi.cr
+
+crystal: 0.28.0
+
+license: MIT
