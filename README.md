@@ -1,8 +1,8 @@
 # smi-sdk-cr
 
-This is a Service Mesh Interface implementation in Crystal Lang.
+This is an implementation of the Service Mesh Interface (SMI) specification in the Crystal language.
 
-It's a direct port from the Go SDK counter part.
+It is a direct port from the Go SDK counter part.
 We aim to use it to develop a CLI for our Serverless Service Mesh implementation. The first implementation uses Gloo as the API Gateway.
 
 ## Contributing
